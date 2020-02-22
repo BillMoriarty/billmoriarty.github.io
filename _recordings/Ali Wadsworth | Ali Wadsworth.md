@@ -1,6 +1,7 @@
 ---
 title: "Ali Wadsworth | Ali Wadsworth"
 artist: Ali Wadsworth
+album: Ali Wadsworth
 header:
   teaser: https://f4.bcbits.com/img/a0332207300_16.jpg
 ---

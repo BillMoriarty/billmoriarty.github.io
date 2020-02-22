@@ -1,6 +1,7 @@
 ---
 title: "Cool Cool Cool | The Lawsuits"
 artist: The Lawsuits
+album: Cool Cool Cool
 header:
   teaser: https://f4.bcbits.com/img/a3811465647_16.jpg
 ---
