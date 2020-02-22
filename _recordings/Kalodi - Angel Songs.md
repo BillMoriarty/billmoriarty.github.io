@@ -1,7 +1,6 @@
 ---
-title: "Kalodi - Angel Songs | Ocean Song Records"
+title: "Kalodi - Angel Songs, by Ocean Song Records"
 artist: Ocean Song Records
-album: Kalodi - Angel Songs
 header:
   teaser: https://f4.bcbits.com/img/a0281270135_16.jpg
 ---

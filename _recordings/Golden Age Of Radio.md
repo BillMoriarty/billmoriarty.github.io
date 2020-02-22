@@ -1,7 +1,6 @@
 ---
-title: "Golden Age Of Radio | Josh Ritter"
+title: "Golden Age Of Radio, by Josh Ritter"
 artist: Josh Ritter
-album: Golden Age Of Radio
 header:
   teaser: https://f4.bcbits.com/img/a4012304030_16.jpg
 ---

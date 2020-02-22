@@ -1,7 +1,6 @@
 ---
-title: "Where The Lore Began | Jeremiah Tall"
+title: "Where The Lore Began, by Jeremiah Tall"
 artist: Jeremiah Tall
-album: Where The Lore Began
 header:
   teaser: https://f4.bcbits.com/img/a2040818564_16.jpg
 ---

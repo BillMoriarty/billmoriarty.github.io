@@ -1,7 +1,6 @@
 ---
-title: "The Maybe Boys | Toy Soldiers"
+title: "The Maybe Boys, by Toy Soldiers"
 artist: Toy Soldiers
-album: The Maybe Boys
 header:
   teaser: https://f4.bcbits.com/img/a0509081875_16.jpg
 ---

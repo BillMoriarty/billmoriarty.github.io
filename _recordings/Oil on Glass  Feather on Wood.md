@@ -1,7 +1,6 @@
 ---
-title: "Oil on Glass / Feather on Wood | Lotus"
+title: "Oil on Glass / Feather on Wood, by Lotus"
 artist: Lotus
-album: Oil on Glass / Feather on Wood
 header:
   teaser: https://f4.bcbits.com/img/a0461272760_16.jpg
 ---

@@ -1,7 +1,6 @@
 ---
-title: "The Nashville EP | Ocean Song Records"
+title: "The Nashville EP, by Ocean Song Records"
 artist: Ocean Song Records
-album: The Nashville EP
 header:
   teaser: https://f4.bcbits.com/img/a0434016048_16.jpg
 ---

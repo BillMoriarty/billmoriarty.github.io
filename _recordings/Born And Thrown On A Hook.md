@@ -1,7 +1,6 @@
 ---
-title: "Born And Thrown On A Hook | Drink Up Buttercup"
+title: "Born And Thrown On A Hook, by Drink Up Buttercup"
 artist: Drink Up Buttercup
-album: Born And Thrown On A Hook
 header:
   teaser: https://f4.bcbits.com/img/a3346733349_16.jpg
 ---

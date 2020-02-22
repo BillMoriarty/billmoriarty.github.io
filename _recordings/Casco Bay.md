@@ -1,7 +1,6 @@
 ---
-title: "Casco Bay | Bill Moriarty"
+title: "Casco Bay, by Bill Moriarty"
 artist: Bill Moriarty
-album: Casco Bay
 header:
   teaser: https://f4.bcbits.com/img/a0861656697_16.jpg
 ---

@@ -1,7 +1,6 @@
 ---
-title: "UNIVOX | UNIVOX"
+title: "UNIVOX, by UNIVOX"
 artist: UNIVOX
-album: UNIVOX
 header:
   teaser: https://f4.bcbits.com/img/a2737157416_16.jpg
 ---

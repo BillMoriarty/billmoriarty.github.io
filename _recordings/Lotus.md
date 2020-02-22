@@ -1,7 +1,6 @@
 ---
-title: "Lotus | Lotus"
+title: "Lotus, by Lotus"
 artist: Lotus
-album: Lotus
 header:
   teaser: https://f4.bcbits.com/img/a1866859599_16.jpg
 ---

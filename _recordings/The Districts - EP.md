@@ -1,7 +1,6 @@
 ---
-title: "The Districts - EP | The Districts"
+title: "The Districts - EP, by The Districts"
 artist: The Districts
-album: The Districts - EP
 header:
   teaser: https://f4.bcbits.com/img/a3787014808_16.jpg
 ---

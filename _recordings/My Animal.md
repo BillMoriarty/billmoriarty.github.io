@@ -1,7 +1,6 @@
 ---
-title: "My Animal | mary lynn"
+title: "My Animal, by mary lynn"
 artist: mary lynn
-album: My Animal
 header:
   teaser: https://f4.bcbits.com/img/a2361989563_16.jpg
 ---

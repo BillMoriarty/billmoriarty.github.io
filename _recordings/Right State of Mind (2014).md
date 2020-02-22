@@ -1,7 +1,6 @@
 ---
-title: "Right State of Mind (2014) | Holy Ghost Tent Revival"
+title: "Right State of Mind (2014), by Holy Ghost Tent Revival"
 artist: Holy Ghost Tent Revival
-album: Right State of Mind (2014)
 header:
   teaser: https://f4.bcbits.com/img/a0163225668_16.jpg
 ---

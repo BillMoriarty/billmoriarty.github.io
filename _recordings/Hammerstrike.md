@@ -1,7 +1,6 @@
 ---
-title: "Hammerstrike | Lotus"
+title: "Hammerstrike, by Lotus"
 artist: Lotus
-album: Hammerstrike
 header:
   teaser: https://f4.bcbits.com/img/a0732398741_16.jpg
 ---

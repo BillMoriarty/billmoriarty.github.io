@@ -1,7 +1,6 @@
 ---
-title: "Asleep In My Shoes | Joe D'Amico"
+title: "Asleep In My Shoes, by Joe D'Amico"
 artist: Joe D'Amico
-album: Asleep In My Shoes
 header:
   teaser: https://f4.bcbits.com/img/a3110877700_16.jpg
 ---

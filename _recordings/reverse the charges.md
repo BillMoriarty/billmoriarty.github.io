@@ -1,7 +1,6 @@
 ---
-title: "reverse the charges | Joshua Marcus"
+title: "reverse the charges, by Joshua Marcus"
 artist: Joshua Marcus
-album: reverse the charges
 header:
   teaser: https://f4.bcbits.com/img/a4275729594_16.jpg
 ---

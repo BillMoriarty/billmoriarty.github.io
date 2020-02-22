@@ -1,7 +1,6 @@
 ---
-title: "Shame, Shame | Dr. Dog"
+title: "Shame, Shame, by Dr. Dog"
 artist: Dr. Dog
-album: Shame, Shame
 header:
   teaser: https://f4.bcbits.com/img/a0990391357_16.jpg
 ---

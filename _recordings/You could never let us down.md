@@ -1,7 +1,6 @@
 ---
-title: "You could never let us down | Friends Of The Library"
+title: "You could never let us down, by Friends Of The Library"
 artist: Friends Of The Library
-album: You could never let us down
 header:
   teaser: https://f4.bcbits.com/img/a0942469136_16.jpg
 ---

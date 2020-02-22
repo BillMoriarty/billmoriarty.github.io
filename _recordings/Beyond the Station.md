@@ -1,7 +1,6 @@
 ---
-title: "Beyond the Station | Annabelle's Curse"
+title: "Beyond the Station, by Annabelle's Curse"
 artist: Annabelle's Curse
-album: Beyond the Station
 header:
   teaser: https://f4.bcbits.com/img/a1291863882_16.jpg
 ---

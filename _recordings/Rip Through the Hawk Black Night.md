@@ -1,7 +1,6 @@
 ---
-title: "Rip Through the Hawk Black Night | Make A Rising"
+title: "Rip Through the Hawk Black Night, by Make A Rising"
 artist: Make A Rising
-album: Rip Through the Hawk Black Night
 header:
   teaser: https://f4.bcbits.com/img/a1347860114_16.jpg
 ---

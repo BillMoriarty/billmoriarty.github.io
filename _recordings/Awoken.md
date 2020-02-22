@@ -1,7 +1,6 @@
 ---
-title: "Awoken | Bigtree Bonsai"
+title: "Awoken, by Bigtree Bonsai"
 artist: Bigtree Bonsai
-album: Awoken
 header:
   teaser: https://f4.bcbits.com/img/a0128222479_16.jpg
 ---

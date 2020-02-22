@@ -1,7 +1,6 @@
 ---
-title: "Worn Out Skin | Annabelle's Curse"
+title: "Worn Out Skin, by Annabelle's Curse"
 artist: Annabelle's Curse
-album: Worn Out Skin
 header:
   teaser: https://f4.bcbits.com/img/a3941616211_16.jpg
 ---

@@ -1,7 +1,6 @@
 ---
-title: "Waking | Jeremiah Tall"
+title: "Waking, by Jeremiah Tall"
 artist: Jeremiah Tall
-album: Waking
 header:
   teaser: https://f4.bcbits.com/img/a3390755274_16.jpg
 ---

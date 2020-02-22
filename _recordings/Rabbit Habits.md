@@ -1,7 +1,6 @@
 ---
-title: "Rabbit Habits | Man Man"
+title: "Rabbit Habits, by Man Man"
 artist: Man Man
-album: Rabbit Habits
 header:
   teaser: https://f4.bcbits.com/img/a0534138229_16.jpg
 ---

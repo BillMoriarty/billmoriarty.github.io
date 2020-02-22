@@ -1,7 +1,6 @@
 ---
-title: "Story Of The Rifle | Mason Porter"
+title: "Story Of The Rifle, by Mason Porter"
 artist: Mason Porter
-album: Story Of The Rifle
 header:
   teaser: https://f4.bcbits.com/img/a2281421699_16.jpg
 ---

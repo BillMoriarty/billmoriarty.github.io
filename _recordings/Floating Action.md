@@ -1,7 +1,6 @@
 ---
-title: "Floating Action | Floating Action"
+title: "Floating Action, by Floating Action"
 artist: Floating Action
-album: Floating Action
 header:
   teaser: https://f4.bcbits.com/img/a1161264266_16.jpg
 ---

@@ -1,7 +1,6 @@
 ---
-title: "make/ believe | Joshua Marcus"
+title: "make/ believe, by Joshua Marcus"
 artist: Joshua Marcus
-album: make/ believe
 header:
   teaser: https://f4.bcbits.com/img/a0480062661_16.jpg
 ---

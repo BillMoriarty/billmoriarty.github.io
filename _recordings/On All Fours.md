@@ -1,7 +1,6 @@
 ---
-title: "On All Fours | The Pines of Rome"
+title: "On All Fours, by The Pines of Rome"
 artist: The Pines of Rome
-album: On All Fours
 header:
   teaser: https://f4.bcbits.com/img/a3913711546_16.jpg
 ---

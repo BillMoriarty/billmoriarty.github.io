@@ -1,7 +1,6 @@
 ---
-title: "Golden Age | Grandchildren"
+title: "Golden Age, by Grandchildren"
 artist: Grandchildren
-album: Golden Age
 header:
   teaser: https://f4.bcbits.com/img/a0724881154_16.jpg
 ---

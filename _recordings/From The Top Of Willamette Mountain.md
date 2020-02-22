@@ -1,7 +1,6 @@
 ---
-title: "From The Top Of Willamette Mountain | Joshua James"
+title: "From The Top Of Willamette Mountain, by Joshua James"
 artist: Joshua James
-album: From The Top Of Willamette Mountain
 header:
   teaser: https://f4.bcbits.com/img/a0622214464_16.jpg
 ---

@@ -1,7 +1,6 @@
 ---
-title: "Infinite Ellipse and Head with Open Fontanel | Make A Rising"
+title: "Infinite Ellipse and Head with Open Fontanel, by Make A Rising"
 artist: Make A Rising
-album: Infinite Ellipse and Head with Open Fontanel
 header:
   teaser: https://f4.bcbits.com/img/a3319061524_16.jpg
 ---

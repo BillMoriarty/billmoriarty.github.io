@@ -1,7 +1,6 @@
 ---
-title: "KONG | TJ Kong and The Atomic Bomb"
+title: "KONG, by TJ Kong and The Atomic Bomb"
 artist: TJ Kong and The Atomic Bomb
-album: KONG
 header:
   teaser: https://f4.bcbits.com/img/a0702110165_16.jpg
 ---

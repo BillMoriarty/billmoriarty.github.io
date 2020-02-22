@@ -1,7 +1,6 @@
 ---
-title: "moment | Tall Tall Trees"
+title: "moment, by Tall Tall Trees"
 artist: Tall Tall Trees
-album: moment
 header:
   teaser: https://f4.bcbits.com/img/a2595092474_16.jpg
 ---

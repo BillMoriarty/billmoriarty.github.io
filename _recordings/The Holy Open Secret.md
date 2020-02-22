@@ -1,7 +1,6 @@
 ---
-title: "The Holy Open Secret | hoots & hellmouth"
+title: "The Holy Open Secret, by hoots & hellmouth"
 artist: hoots & hellmouth
-album: The Holy Open Secret
 header:
   teaser: https://f4.bcbits.com/img/a1995897294_16.jpg
 ---
