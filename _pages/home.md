@@ -10,7 +10,7 @@ Hi there. I spend most of my daytime working as a software developer. I studied 
 I have made a lot of recordings as a record producer, recording engineer, mixing engineer, and sometimes a musician.
 You may have even heard some of them. 
 
-My partner is an artist turned [UX designer](https://carolsohan.com)
+My partner is an artist turned [UX designer](https://carolsohan.com/work/)
 
 
 I am the parent of an incredibly beautiful & bouncy little kid.
