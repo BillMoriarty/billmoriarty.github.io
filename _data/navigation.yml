@@ -1,3 +1,5 @@
 main:
+  - title: "Reading & Learning"
+    url: /reading/
   - title: "Recordings"
     url: /recordings/

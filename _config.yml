@@ -24,6 +24,9 @@ github_username: billmoriarty
 minimal_mistakes_skin: dark
 search: true
 
+repository: "billmoriarty/billmoriarty.github.io"
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -82,16 +85,27 @@ collections:
   recordings:
     output: true
     permalink: /:collection/:path/
+  # learning:
+  #   output: true
+  #   permalink: /:collection/:path/
+
 
 
 defaults:
- # _staff_members
+ # _recordings
   - scope:
       path: ""
       type: recordings
     values:
       layout: single
       author_profile: false
+   # _recordings
+  # - scope:
+  #     path: ""
+  #     type: learning
+  #   values:
+  #     layout: single
+  #     author_profile: false
   # _posts
   - scope:
       path: ""
