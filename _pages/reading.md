@@ -6,8 +6,8 @@ permalink: /reading/
 ### Augmented Reality
 * Reading: 3D User Interfaces: Theory and Practice (2nd Edition)
     * I hope to also work in AR development in the next few years, because it seems helpfully transformation and I think it's cool. I wanted to learn about development in this space, and the user interface aspects. I reached out to Blair MacIntyre at Georgia Tech and he recommended I read this [Link](https://www.amazon.com/3D-User-Interfaces-Practice-Usability/dp/0134034325){:target="_blank"}
-    * Programming in ARKit
-    * Learning some Unity
+* Programming in ARKit
+* Learning some Unity
 
 ### Swift & SwiftUI
 - iOS was the reason I got into programming, and it's still what I read about and practice for fun even after a whole day of programming *not* iOS at work.
@@ -21,7 +21,7 @@ permalink: /reading/
 
 ### Databases
 - I don't know why I'm always excited to learn new databases.
-- Currently reading / making POC's with Postgres, Dynamo, Mongo, Neo4j.
+- Currently reading / making POC's with Postgres, Dynamo, Mongo, Neo4j
 - On top of that I'm learning GraphQL on Postgres. It's a different way of thinking.
 
 ### Buddhist Practice & Study
