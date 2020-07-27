@@ -5,9 +5,11 @@ author_profile: false
 title: Pictures
 
 gallery:
-  - image_path: /assets/pictures/1e.jpeg
+  - url: /assets/pictures/1e.jpeg
+    image_path: /assets/pictures/1e.jpeg
     alt: "placeholder image 1"
-  - image_path: /assets/pictures/2e.jpeg
+  - url: /assets/pictures/2e.jpeg
+    image_path: /assets/pictures/2e.jpeg
     alt: "placeholder image 2"
 
 ---
