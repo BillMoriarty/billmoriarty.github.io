@@ -3,3 +3,5 @@ main:
     url: /reading/
   - title: "Recordings"
     url: /recordings/
+  - title: "Posts"
+    url: /posts/
