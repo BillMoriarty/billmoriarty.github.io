@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 author_profile: true
-title: Who?
+# title: Who?
 ---
 
 Hi there. I spend most of my daytime working as a software developer. I studied computer science and software design at Temple University. Also, I started a podcast for people changing careers into tech & called it [Possible Paths](https://anchor.fm/possible-paths){:target="_blank"}
